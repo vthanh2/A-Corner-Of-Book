@@ -1,37 +1,34 @@
 # A Corner Of Book
 
-### Case Study
+## Case Study
 A Books' Corner is an online bookstore that allows users to order and have it delivered to their door!
 (We have physical store, and the site shows customers whether what they're looking for at is available or not. And they can buy it online.)
 
 > User:
-* Administrator of A Books' Corner
+* Administrator of A Books' Corner . 
 * Consumers with the desire to find, consult and buy books.
 -----------------------
 ## Functions of the Website:
 
 > For User:
-- Sign up and Sign in .
-- Recommendation .
-- Search a book, author, ... .
-- Page divide (comment, product page).
-- Filter:
-  * Tag
-  * Author
-- Sort:
-  * Price
-  * Publish
-- Cart .
-- Payment .
-- Notification .
-- Map navigating to the shop .
+-	Customers can search for books based on name .
+-	Provide login/ sign up sessions for multiple users .
+-	Rate products . 
+-	Customers can comment about books .
+-	filter books by author name, tag .
+-	Sorting book by price, publish .
+-	Automatically recommend books to customer .
+-	Customer can add books to cart, delete books from cart .
+-	Customers receive notifications from the website .
 > For Admin:
 - Product Management:
   * Add a new product .
   * Delete a product .
-  * Update product information .
- - Delete User / Disable User .
- 
+  * Update information of products .
+- Create users account
+- Update information of account.  
+- Delete User / Disable User .
+
  ## Language Used:
 
  - HTML5.
@@ -52,4 +49,5 @@ A Books' Corner is an online bookstore that allows users to order and have it de
  4. Tống Mạnh Tân
     * tantmse151044@fpt.edu.vn
     * github: Manhtan2801
+
  
