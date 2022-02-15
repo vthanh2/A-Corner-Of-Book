@@ -35,6 +35,12 @@ A Books' Corner is an online bookstore that allows users to order and have it de
  - JVS .
  - CSS3 .
  
+ - Home:
+    * ![home](https://user-images.githubusercontent.com/97278244/154045236-a49bd9da-7466-43b8-bc78-242cb6e8df3a.png)
+ - Search:
+    * ![search_site](https://user-images.githubusercontent.com/97278244/154045727-af52c778-f117-4b8f-8024-736554af0072.png)
+ - Product:
+    * ![product_site](https://user-images.githubusercontent.com/97278244/154045735-569cdb2c-dd16-42b3-ae81-1ded54853c74.png)
  ****************************
  ### For more information about our website, Contact us:
  1. Nguyễn Viết Thanh
