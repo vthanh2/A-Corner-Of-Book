@@ -36,7 +36,7 @@ A Books' Corner is an online bookstore that allows users to order and have it de
  - JVS .
  - CSS3 .
  
- ## First Look: 
+ ## GUI: 
  
  - Home:
     * ![home](https://user-images.githubusercontent.com/97278244/154045236-a49bd9da-7466-43b8-bc78-242cb6e8df3a.png)
@@ -44,17 +44,22 @@ A Books' Corner is an online bookstore that allows users to order and have it de
     * ![search_site](https://user-images.githubusercontent.com/97278244/154045727-af52c778-f117-4b8f-8024-736554af0072.png)
  - Product:
     * ![product_site](https://user-images.githubusercontent.com/97278244/154045735-569cdb2c-dd16-42b3-ae81-1ded54853c74.png)
- - Favourite: 
-    * ![favourites](https://user-images.githubusercontent.com/97278244/154230242-37502fda-74de-4776-b38b-4d7ef0e88e8c.png)
  - Cart:
     * ![cart](https://user-images.githubusercontent.com/97278244/154230212-215c069b-3cc1-475f-bfd6-be5ff920decc.png)
- - Order history: 
-    * ![order_history](https://user-images.githubusercontent.com/97278244/154230236-31d6a0f6-e5ce-49dd-8e67-8144fe951583.png)
  - Edit account:
     * ![edit_account](https://user-images.githubusercontent.com/97278244/154230251-c31e701b-cd62-435b-8693-290d03b2b109.png)
- - Admin site:
-    * ![admin_site](https://user-images.githubusercontent.com/97278244/154230246-ff6fe047-91af-4d33-9b97-744a355a35b9.png)
+ - Change pass:
+    * ![change_password (1)](https://user-images.githubusercontent.com/97278244/154270002-a38f2e00-f218-41b0-ab63-90ff6568fe04.png)
+ - Favourite: 
+    * ![favourites](https://user-images.githubusercontent.com/97278244/154230242-37502fda-74de-4776-b38b-4d7ef0e88e8c.png)
+ - Order history: 
+    * ![order_history](https://user-images.githubusercontent.com/97278244/154230236-31d6a0f6-e5ce-49dd-8e67-8144fe951583.png)
 
+## Site map:
+ - User:
+   * ![user](https://user-images.githubusercontent.com/97278244/154270285-ff6db802-efa3-4883-9559-d223206b3dcd.png)
+ - Admin:
+   * ![admin](https://user-images.githubusercontent.com/97278244/154270307-09d3ee3e-c8cc-4a09-bf5b-b58d843375cf.png)
 
  ****************************
  ### For more information about our website, Contact us:
