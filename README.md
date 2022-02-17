@@ -5,36 +5,38 @@ A Books' Corner is an online bookstore that allows users to order and have it de
 (We have physical store, and the site shows customers whether what they're looking for at is available or not. And they can buy it online.)
 
 > User:
-* Administrator of A Books' Corner . 
+* Administrator of A Books' Corner. 
 * Consumers with the desire to find, consult and buy books.
 -----------------------
 ## Functions of the Website:
 
 > For User:
--	Customers can search for books based on name .
--	Provide login/ sign up sessions for multiple users .
--	Rate products . 
--	Customers can comment about books .
--	filter books by author name, tag .
--	Sorting book by price, publish .
--	Automatically recommend books to customer .
--	Customer can add books to cart, delete books from cart .
--	Customers receive notifications from the website .
+-	Customers can search for books based on name.
+-	Provide login/ sign up sessions for multiple users.
+-	Rate products. 
+-	Customers can comment about books.
+-	Filter books by author name, tag.
+-	Sorting book by price, publish.
+-	Automatically recommend books to customer.
+-	Customer can add books to cart, delete books from cart.
+-	Customers receive notifications from the website.
 > For Admin:
-- Product Management:
-  * Add a new product .
-  * Delete a product .
-  * Update information of products .
-- Create users account
+- Product management:
+  * Add a new product.
+  * Delete a product.
+  * Update information of products.
 - Update information of account.  
-- Delete User / Disable User .
-- Order Management .
+- Product management:
+  * Delete a user.
+  * Disable a user.
+- Order management.
 
  ## Language Used:
 
- - HTML5.
- - JVS .
- - CSS3 .
+ - HTML5
+ - CSS
+ - Javascript
+ - Java
  
  ## GUI: 
  
@@ -75,5 +77,3 @@ A Books' Corner is an online bookstore that allows users to order and have it de
  4. Tống Mạnh Tân
     * tantmse151044@fpt.edu.vn
     * github: Manhtan2801
-
- 
