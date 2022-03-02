@@ -7,6 +7,14 @@ A Books' Corner is an online bookstore that allows users to order and have it de
 > User:
 * Administrator of A Books' Corner. 
 * Consumers with the desire to find, consult and buy books.
+
+## Site map:
+ - User:
+   * ![user](https://user-images.githubusercontent.com/97278244/154270285-ff6db802-efa3-4883-9559-d223206b3dcd.png)
+ - Admin:
+   * ![admin](https://user-images.githubusercontent.com/97278244/154270307-09d3ee3e-c8cc-4a09-bf5b-b58d843375cf.png)
+
+
 -----------------------
 ## Functions of the Website:
 
@@ -19,7 +27,6 @@ A Books' Corner is an online bookstore that allows users to order and have it de
 -	Sorting book by price, publish.
 -	Automatically recommend books to customer.
 -	Customer can add books to cart, delete books from cart.
--	Customers receive notifications from the website.
 > For Admin:
 - Product management:
   * Add a new product.
@@ -45,7 +52,7 @@ A Books' Corner is an online bookstore that allows users to order and have it de
  - Search:
     * ![search_site](https://user-images.githubusercontent.com/97278244/154045727-af52c778-f117-4b8f-8024-736554af0072.png)
  - Product:
-    * ![product_site](https://user-images.githubusercontent.com/97278244/154045735-569cdb2c-dd16-42b3-ae81-1ded54853c74.png)
+    * ![product_site (2)](https://user-images.githubusercontent.com/97278244/154435289-08a016bb-70e0-49af-b020-a23631ac90ba.png)
  - Cart:
     * ![cart](https://user-images.githubusercontent.com/97278244/154230212-215c069b-3cc1-475f-bfd6-be5ff920decc.png)
  - Edit account:
@@ -56,13 +63,17 @@ A Books' Corner is an online bookstore that allows users to order and have it de
     * ![favourites](https://user-images.githubusercontent.com/97278244/154230242-37502fda-74de-4776-b38b-4d7ef0e88e8c.png)
  - Order history: 
     * ![order_history](https://user-images.githubusercontent.com/97278244/154230236-31d6a0f6-e5ce-49dd-8e67-8144fe951583.png)
+ - Admin Site:
+    * ![admin_site](https://user-images.githubusercontent.com/97278244/154433137-f65faf8d-c525-484c-9938-511e03eafcdb.png)
 
-## Site map:
- - User:
-   * ![user](https://user-images.githubusercontent.com/97278244/154270285-ff6db802-efa3-4883-9559-d223206b3dcd.png)
- - Admin:
-   * ![admin](https://user-images.githubusercontent.com/97278244/154270307-09d3ee3e-c8cc-4a09-bf5b-b58d843375cf.png)
-
+## System Design:
+ - MVC:
+    * ![mvc](https://user-images.githubusercontent.com/97278244/155474716-feced2e0-057e-434f-8e43-0b2830d9aea4.png)
+ - UML:
+    * ![UML](https://user-images.githubusercontent.com/97278244/155474723-4439e9ff-7615-4d13-814c-c3fc1fed0421.png)
+ - Entity Relation:
+    * ![entity_relation](https://user-images.githubusercontent.com/97278244/155475364-9cd47881-8bd0-47c4-9d58-c2ee28e6d0f4.png)
+    
  ****************************
  ### For more information about our website, Contact us:
  1. Nguyễn Viết Thanh
@@ -77,3 +88,5 @@ A Books' Corner is an online bookstore that allows users to order and have it de
  4. Tống Mạnh Tân
     * tantmse151044@fpt.edu.vn
     * github: Manhtan2801
+
+ 
